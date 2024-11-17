@@ -1,1 +1,1 @@
-![alt text](https://github.com/hasanashik/Nokia_sr_linux/blob/main/EVPN-MH.png?raw=true)
+![EVPN-MH](EVPN-MH.png)
