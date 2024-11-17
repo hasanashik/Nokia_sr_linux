@@ -1,0 +1,15 @@
+info flat interface *
+info flat network-instance default
+info flat network-instance mac-vrf-1
+info flat tunnel-interface vxlan1 vxlan-interface 1 
+info flat routing-policy policy all 
+info flat system lldp
+info flat system network-instance protocols
+
+info  interface *
+info  network-instance default
+info  network-instance mac-vrf-1
+info  tunnel-interface vxlan1 vxlan-interface 1 
+info  routing-policy policy all 
+info  system lldp
+info  system network-instance protocols
